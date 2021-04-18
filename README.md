@@ -8,4 +8,4 @@ Environmental Information (NCEI)](https://www.ngdc.noaa.gov/hazel/view/hazards/e
 * Various fields were calculated to help produce the desired analysis
 * Storybook presentation developed to summarise findings 
 
-# [Further breakdown and calculated fields](https://github.com/JasonHunt-DA/Earthquakes_1900-2020/blob/main/Earthquake%20Analysis%201900-2020.pdf)
+* [Further breakdown and calculated fields](https://github.com/JasonHunt-DA/Earthquakes_1900-2020/blob/main/Earthquake%20Analysis%201900-2020.pdf)
